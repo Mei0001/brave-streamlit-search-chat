@@ -6,4 +6,12 @@ __pycache__/
 *.sqlite3
 *.log
 *.pyc
+docs/
 
+# Debug and test files
+debug_*.py
+test_*.py
+final_test.py
+
+# Type checking cache
+.mypy_cache/
